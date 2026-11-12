@@ -23,14 +23,14 @@
     </td>
     <td width="50%" valign="top">
       <h3>🖱️ <a href="https://github.com/CodeH-top/Menu11-For-Git">Menu11 for Git</a></h3>
-      <p>Windows 11 原生 Git 右键菜单<br>常用操作，在资源管理器直接完成</p>
+      <p>Windows 11 Git 右键菜单<br>原生菜单，常用操作直达</p>
       <p><a href="https://github.com/CodeH-top/Menu11-For-Git">查看项目 →</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏠 <a href="https://github.com/CodeH-top/HA_mcp_CoCan">HA MCP CoCan</a></h3>
-      <p>Home Assistant 小电拼集成<br>基于 MCP 协议，与官方 App 共存</p>
+      <p>Home Assistant 小电拼<br>MCP 接入，与 App 共存</p>
       <p><a href="https://github.com/CodeH-top/HA_mcp_CoCan">查看项目 →</a></p>
     </td>
     <td width="50%" valign="top">
